@@ -1,0 +1,19 @@
+{
+  "name": "provenchain",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Notarization-only MVP core for ProvenChain.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "compile": "node scripts/compile-contract.mjs",
+    "hash": "node scripts/hash-document.mjs",
+    "verify": "node scripts/verify-document.mjs"
+  },
+  "devDependencies": {
+    "solc": "0.8.30"
+  }
+}
