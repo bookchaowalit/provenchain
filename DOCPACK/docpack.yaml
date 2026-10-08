@@ -1,0 +1,8 @@
+system_id: bookchaowalit/book-products/provenchain
+prefix: CARD
+brand: "PROVENCHAIN"
+subtitle: "ต้นแบบประทับเวลา hash เอกสารบน EVM chain โดยไม่ส่งเนื้อหาเอกสาร"
+footer: "ProvenChain — Product Card"
+color: "#2f4b6e"
+audience: internal
+tier: L0
